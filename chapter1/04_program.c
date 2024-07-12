@@ -1,3 +1,4 @@
+// To find the simple interest and the total amount
 #include <stdio.h>
 int main(){
     float p,r,t,SI;
